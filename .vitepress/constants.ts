@@ -5,9 +5,9 @@ export const title = '标题'
 export const description = 'All popular icon sets, one framework'
 
 export const hero = {
-  title: 'Hub of Computer Science',
-  p1: 'A Hub of all CSers',
-  p2: '全部开源免费',
+  title: 'CSHub',
+  p1: 'Hub of Computer Science',
+  p2: '全体量化计算机科学知识',
 }
 export const license = {
   title: 'License',
