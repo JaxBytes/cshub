@@ -11,6 +11,7 @@ const enablePWA = false // isCI || !isDevelopment || process.env.SW_DEV === 'tru
 
 export default defineConfig({
   lang: 'en-US',
+  base: '/',
   title,
   titleTemplate: title,
   description,

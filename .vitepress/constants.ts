@@ -1,11 +1,11 @@
-export const copyright = 'Copyright © 2020-PRESENT Iconify OÜ'
+export const copyright = '版权信息说明'
 export const ogUrl = 'https://iconify.design/'
 export const ogImage = `${ogUrl}assets/og/iconify.png`
-export const title = 'Iconify'
+export const title = '标题'
 export const description = 'All popular icon sets, one framework'
 
 export const hero = {
-  title: 'Home of open source icon sets',
+  title: 'Hub of Computer Science',
   p1: 'All popular icon sets, one framework.',
   p2: 'Over 200,000 open source vector icons.',
 }
