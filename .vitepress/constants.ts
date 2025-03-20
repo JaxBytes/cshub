@@ -6,8 +6,8 @@ export const description = 'All popular icon sets, one framework'
 
 export const hero = {
   title: 'Hub of Computer Science',
-  p1: 'All popular icon sets, one framework.',
-  p2: 'Over 200,000 open source vector icons.',
+  p1: 'A Hub of all CSers',
+  p2: '全部开源免费',
 }
 export const license = {
   title: 'License',

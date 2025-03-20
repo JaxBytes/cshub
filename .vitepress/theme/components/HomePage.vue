@@ -180,7 +180,7 @@ const buttons: HomePageButtonProps[] = [
           </div>
         </section>
         -->
-
+<!--
         <section id="sponsored-by" class="home">
           <h1>Sponsored by</h1>
           <div class="sponsors">
@@ -206,6 +206,9 @@ const buttons: HomePageButtonProps[] = [
             <p>{{ license.p3 }}</p>
           </div>
         </section>
+这段内容是开发人员
+-->
+
       </main>
     </div>
   </div>

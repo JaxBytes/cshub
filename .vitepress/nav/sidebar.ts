@@ -14,7 +14,7 @@ export const GlobalSidebar: SidebarItem[] = [
     link: '/news/',
   },
   {
-    text: 'Documentation',
+    text: '文档',
     collapsed: true,
     items: DocumentationSidebar,
     link: '/docs/',

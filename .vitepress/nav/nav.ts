@@ -1,5 +1,5 @@
 import type { DefaultTheme } from 'vitepress'
-
+//右上角的导航栏
 const DocumentationNav: DefaultTheme.NavItemWithLink[] = [
   { text: 'Documentation', link: '/docs/' },
   { text: 'Icons and Icon Sets', link: '/docs/icons/', activeMatch: '^/docs/icons/' },
@@ -41,7 +41,7 @@ export const Nav: DefaultTheme.NavItem[] = [
     link: '/sponsors/',
   },
   {
-    text: 'About',
+    text: '关于',
     items: AboutNav,
     activeMatch: '^/(about|support|privacy)/',
   },
