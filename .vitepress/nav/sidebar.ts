@@ -4,7 +4,7 @@ import type { SidebarItem } from './sidebar-item'
 
 export const GlobalSidebar: SidebarItem[] = [
   {
-    text: 'Getting Started',
+    text: '开始使用',
     link: '/getting-started/',
   },
   {

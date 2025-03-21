@@ -1,4 +1,4 @@
-export const copyright = '版权信息说明'
+export const copyright = 'Copyright © 2025'
 export const ogUrl = 'https://iconify.design/'
 export const ogImage = `${ogUrl}assets/og/iconify.png`
 export const title = '标题'
@@ -6,8 +6,8 @@ export const description = 'All popular icon sets, one framework'
 
 export const hero = {
   title: 'CSHub',
-  p1: 'Hub of Computer Science',
-  p2: '全体量化计算机科学知识',
+  p1: 'The Hub for Computer Science',
+  p2: '全量化计算机科学知识',
 }
 export const license = {
   title: 'License',

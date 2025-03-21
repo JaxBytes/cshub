@@ -78,7 +78,7 @@ export default defineConfig({
     },
     socialLinks,
     footer: {
-      message: 'Released under the Apache 2.0 License.',
+      message: 'Licensed under MIT License.',
       copyright,
     },
   },

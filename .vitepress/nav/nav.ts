@@ -17,29 +17,29 @@ const AboutNav: DefaultTheme.NavItemWithLink[] = [
 
 export const Nav: DefaultTheme.NavItem[] = [
   {
-    text: 'News',
-    link: '/news/',
+    text: '必学工具',
+    link: '/tools/',
     activeMatch: '^/news/',
   },
-  {
-    text: 'Icons',
-    link: 'https://icon-sets.iconify.design/',
-    target: '_blank',
-  },
+  // {
+  //   text: 'Icons',
+  //   link: 'https://icon-sets.iconify.design/',
+  //   target: '_blank',
+  // },
   {
     text: 'Docs',
     items: DocumentationNav,
     activeMatch: '^/docs/',
   },
-  {
-    text: 'Blog',
-    link: '/blog/',
-    activeMatch: '^/blog/',
-  },
-  {
-    text: 'Sponsor',
-    link: '/sponsors/',
-  },
+  // {
+  //   text: 'Blog',
+  //   link: '/blog/',
+  //   activeMatch: '^/blog/',
+  // },
+  // {
+  //   text: 'Sponsor',
+  //   link: '/sponsors/',
+  // },
   {
     text: '关于',
     items: AboutNav,
