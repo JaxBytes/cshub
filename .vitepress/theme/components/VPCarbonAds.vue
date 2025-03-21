@@ -1,16 +1,7 @@
 <script setup lang="ts">
 </script>
 
-<template>
-  <a class="VPStreamline" href="https://bit.ly/3TlOKR3" target="_blank">
-    <span class="VPStreamlineTitle">
-      Expand Your Icon Collection
-      <small>with Streamline</small>
-    </span>
-    <span class="VPStreamlineIcons" />
-    <span class="VPStreamlineButton">Access 180,000+ icons</span>
-  </a>
-</template>
+
 
 <style scoped>
   .VPStreamline {
