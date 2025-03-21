@@ -18,7 +18,7 @@ const AboutNav: DefaultTheme.NavItemWithLink[] = [
 export const Nav: DefaultTheme.NavItem[] = [
   {
     text: '必学工具',
-    link: '/tools/',
+    link: '/news/',
     activeMatch: '^/news/',
   },
   // {
