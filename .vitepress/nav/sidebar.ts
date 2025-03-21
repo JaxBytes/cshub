@@ -8,10 +8,10 @@ export const GlobalSidebar: SidebarItem[] = [
     link: '/getting-started/',
   },
   {
-    text: 'News',
+    text: '必学工具',
     collapsed: true,
     items: NewsSidebar,
-    link: '/news/',
+    link: '/tools/',
   },
   {
     text: '文档',
